@@ -1,3 +1,3 @@
-# compiler-in-go
+# compiler
 
 Attempt at writing a compiler from scratch
